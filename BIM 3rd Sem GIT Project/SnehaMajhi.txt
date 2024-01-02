@@ -3,3 +3,4 @@ DoB:2061/07/22
 Address:Duhabi-10,Sunsari
 Mobile:9863498688
 Faculty:BCA
+college:HDC
