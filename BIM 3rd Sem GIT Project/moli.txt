@@ -2,3 +2,8 @@ Name-Moli Singh
 DOB-2005/o1/02
 Address-biratngar
 Mobile-9805123456
+
+Name-Aamna Khatoon
+DOB-2004/01/01
+Address-Biratnagar-06
+Mobile-9817341640
