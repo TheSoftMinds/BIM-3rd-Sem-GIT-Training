@@ -1,2 +1,5 @@
 Name:Ritika chaudhary
 DOB:2059/12/15
+Education:BIM 
+Age:19
+Hobby:Reading books, dancing
